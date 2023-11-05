@@ -1,17 +1,17 @@
 
 @font-face {
 	font-family: 'black'; 
-	src: url(/Text/text-black.woff); 
+	src: url(./Text/text-black.woff); 
 }
 
 @font-face {
 	font-family: 'medium'; 
-	src: url(/Text/text-medium.woff); 
+	src: url(./Text/text-medium.woff); 
 }
 
 @font-face {
 	font-family: 'regular'; 
-	src: url(/Text/text-regular.woff); 
+	src: url(./Text/text-regular.woff); 
 }
 
 * {
@@ -22,7 +22,7 @@
 
 body {
     background-color: #ffffff;
-    background-image: url(/IMG/Banner/background.png);
+    background-image: url(./IMG/Banner/background.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
     color: #fff;   
